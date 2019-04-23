@@ -78,6 +78,11 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 ![](https://github.com/r-spatial/slideview/raw/master/man/figures/slideview.gif)
 
+### Opacity
+
++ [leaflet.opacity: Leaflet for R Opacity Controls](https://github.com/be-marc/leaflet.opacity)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXQbFWK_tafN68qBlxuDZRhCj9q8MHIWx-g9waLp85Cw4yEQS)
 
 ## Leaflet Blogs
 
