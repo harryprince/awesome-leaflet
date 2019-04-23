@@ -51,6 +51,8 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 + [leaflet: R Interface to Leaflet Maps](https://rstudio.github.io/leaflet/shiny.html)
 
+![](https://rstudio.github.io/leaflet/images/shiny3.png)
+
 ### Mini Chart
 
 + [leaflet.minichart: Leaflet.minichart is a leaflet plugin for adding to a leaflet map small animated charts](https://github.com/rte-antares-rpackage/leaflet.minichart)
@@ -59,9 +61,10 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 ### 3D Map
 
++ [mapdeck: R interface to Deck.gl and Mapbox](https://github.com/SymbolixAU/mapdeck)
 + [leafgl: R package for fast web gl rendering for leaflet](https://github.com/r-spatial/leafgl)
 
-![](https://github.com/r-spatial/leafgl/blob/master/readme_figs/pts_blue.png)
+![](https://github.com/SymbolixAU/mapdeck/raw/master/vignettes/img/readme_arcs_small.gif)
 
 ### Sync Map
 
