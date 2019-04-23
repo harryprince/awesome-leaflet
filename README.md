@@ -61,6 +61,8 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 + [leafsync: Small Multiples for Leaflet Webmaps](https://github.com/r-spatial/leafsync)
 
+![](https://github.com/jieter/Leaflet.Sync/raw/master/offset_animation.gif)
+
 ### Slide View
 
 + [slideview: Compare Rasters Side by Side with a Slider](https://github.com/r-spatial/slideview)
