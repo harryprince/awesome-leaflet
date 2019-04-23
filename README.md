@@ -15,6 +15,10 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 ## Community
 
+## Leaflet ESRI
+
++ [leaflet.esri: ESRI Plugin for Leaflet R Package](https://github.com/bhaskarvk/leaflet.esri)
+
 ## Leaflet Functions
 
 ### Map Preview
@@ -83,6 +87,12 @@ This repo aims for collecting awesome Leaflet resources togather.
 + [leaflet.opacity: Leaflet for R Opacity Controls](https://github.com/be-marc/leaflet.opacity)
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXQbFWK_tafN68qBlxuDZRhCj9q8MHIWx-g9waLp85Cw4yEQS)
+
+### Tilegrams
+
++ [tilegramsR: R wrapper for Tilegrams](https://github.com/bhaskarvk/tilegramsR)
+
+![](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0942d068970d-800wi)
 
 ## Leaflet Blogs
 
