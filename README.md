@@ -41,6 +41,10 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 ![](https://www.r-spatial.org/images/edit_map_screenshot.gif)
 
+### BaseMap
+
++ ![leafletCN: An R gallery for China and other geojson choropleth map in leaflet](https://github.com/Lchiffon/leafletCN)
+
 ### Popup
 
 + [leafpop: Include Tables, Images and Graphs in Leaflet Popups](https://github.com/r-spatial/leafpop)
