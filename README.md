@@ -51,6 +51,12 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 + [leaflet: R Interface to Leaflet Maps](https://rstudio.github.io/leaflet/shiny.html)
 
+### Mini Chart
+
++ [leaflet.minichart: Leaflet.minichart is a leaflet plugin for adding to a leaflet map small animated charts](https://github.com/rte-antares-rpackage/leaflet.minichart)
+
+![](https://github.com/rte-antares-rpackage/leaflet.minichart/raw/master/img/bubblecharts.png)
+
 ### 3D Map
 
 + [leafgl: R package for fast web gl rendering for leaflet](https://github.com/r-spatial/leafgl)
