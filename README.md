@@ -23,7 +23,9 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 + [Leaflet R Package Cheatsheet](https://ugoproto.github.io/ugo_r_doc/leaflet-cheat-sheet.pdf)
 + [Sf R Package Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/sf.pdf)
++ [Raster R Package Cheatsheet](https://rpubs.com/etiennebr/visualraster)
 + [Cartography R Package Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/cartography.pdf)
++ [Spatial in R Cheatsheet](https://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/cheatsheet.html)
 
 ## Leaflet ESRI
 
