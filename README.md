@@ -15,17 +15,59 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 ## Community
 
+## Leaflet Functions
+
+### Leaflet Shiny
+
++ ![leaflet: R Interface to Leaflet Maps](https://rstudio.github.io/leaflet/shiny.html)
+
+### 3D Map
+
++ ![leafgl: R package for fast web gl rendering for leaflet](https://github.com/r-spatial/leafgl)
+
+![](https://github.com/r-spatial/leafgl/blob/master/readme_figs/pts_blue.png)
+
+### Sync Map
+
++ ![leafsync: Small Multiples for Leaflet Webmaps](https://github.com/r-spatial/leafsync)
+
+### Slide View
+
++ ![slideview: Compare Rasters Side by Side with a Slider](https://github.com/r-spatial/slideview)
+
+![](https://github.com/r-spatial/slideview/raw/master/man/figures/slideview.gif)
+
+### Map Preview
+
++ ![leafem: leaflet extensions for mapview](https://github.com/r-spatial/leafem)
++ ![mapview: Interactive viewing of spatial data in R](https://github.com/r-spatial/mapview)
+
+![](https://github.com/r-spatial/mapview/raw/develop/man/figures/basic_small.png)
+
+### Heat Map
+
++ [leaflet.extras: Extra functionality for leaflet R package](https://github.com/bhaskarvk/leaflet.extras)
+
+![](https://leanpub.com/site_images/leaflet-tips-and-tricks/heatmap-02.png)
 
 ### Map Edit
 
 + [leafpm: Leaflet.pm for R Leaflet](https://github.com/r-spatial/leafpm)
 + [mapedit: Interactive editing of spatial data in R](https://github.com/r-spatial/mapedit)
 
+![](https://www.r-spatial.org/images/edit_map_screenshot.gif)
+
 ### Popup
 
 + [leafpop: Include Tables, Images and Graphs in Leaflet Popups](https://github.com/r-spatial/leafpop)
 
 ![](https://github.com/r-spatial/leafpop/blob/master/man/figures/README-image.png)
+
+### Raster Image
+
++ [plainview: View Raster Images Interactively on a Plain HTML Canvas](https://github.com/r-spatial/plainview)
+
+
 
 ## Leaflet Blogs
 
