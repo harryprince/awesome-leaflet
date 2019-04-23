@@ -19,6 +19,12 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 + [windy: Wind map & weather forecast](http://windy.com/)
 
+## Leaflet Cheatsheet
+
++ [Leaflet R Package Cheatsheet](https://ugoproto.github.io/ugo_r_doc/leaflet-cheat-sheet.pdf)
++ [Sf R Package Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/sf.pdf)
++ [Cartography R Package Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/cartography.pdf)
+
 ## Leaflet ESRI
 
 + [leaflet.esri: ESRI Plugin for Leaflet R Package](https://github.com/bhaskarvk/leaflet.esri)
