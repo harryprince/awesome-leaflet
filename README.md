@@ -15,7 +15,9 @@ This repo aims for collecting awesome Leaflet resources togather.
 1. fork this project.
 2. Add your resources by pull request.
 
-## Community
+## Leaflet in Production
+
++ [windy: Wind map & weather forecast](http://windy.com/)
 
 ## Leaflet ESRI
 
@@ -100,6 +102,4 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 ![](https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb0942d068970d-800wi)
 
-## Leaflet Blogs
 
-## Leaflet Slides
