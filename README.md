@@ -17,30 +17,10 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 ## Leaflet Functions
 
-### Leaflet Shiny
-
-+ ![leaflet: R Interface to Leaflet Maps](https://rstudio.github.io/leaflet/shiny.html)
-
-### 3D Map
-
-+ ![leafgl: R package for fast web gl rendering for leaflet](https://github.com/r-spatial/leafgl)
-
-![](https://github.com/r-spatial/leafgl/blob/master/readme_figs/pts_blue.png)
-
-### Sync Map
-
-+ ![leafsync: Small Multiples for Leaflet Webmaps](https://github.com/r-spatial/leafsync)
-
-### Slide View
-
-+ ![slideview: Compare Rasters Side by Side with a Slider](https://github.com/r-spatial/slideview)
-
-![](https://github.com/r-spatial/slideview/raw/master/man/figures/slideview.gif)
-
 ### Map Preview
 
-+ ![leafem: leaflet extensions for mapview](https://github.com/r-spatial/leafem)
-+ ![mapview: Interactive viewing of spatial data in R](https://github.com/r-spatial/mapview)
++ [leafem: leaflet extensions for mapview](https://github.com/r-spatial/leafem)
++ [mapview: Interactive viewing of spatial data in R](https://github.com/r-spatial/mapview)
 
 ![](https://github.com/r-spatial/mapview/raw/develop/man/figures/basic_small.png)
 
@@ -67,6 +47,25 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 + [plainview: View Raster Images Interactively on a Plain HTML Canvas](https://github.com/r-spatial/plainview)
 
+### Leaflet Shiny
+
++ [leaflet: R Interface to Leaflet Maps](https://rstudio.github.io/leaflet/shiny.html)
+
+### 3D Map
+
++ [leafgl: R package for fast web gl rendering for leaflet](https://github.com/r-spatial/leafgl)
+
+![](https://github.com/r-spatial/leafgl/blob/master/readme_figs/pts_blue.png)
+
+### Sync Map
+
++ [leafsync: Small Multiples for Leaflet Webmaps](https://github.com/r-spatial/leafsync)
+
+### Slide View
+
++ [slideview: Compare Rasters Side by Side with a Slider](https://github.com/r-spatial/slideview)
+
+![](https://github.com/r-spatial/slideview/raw/master/man/figures/slideview.gif)
 
 
 ## Leaflet Blogs
