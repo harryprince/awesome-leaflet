@@ -43,7 +43,7 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 ### BaseMap
 
-+ ![leafletCN: An R gallery for China and other geojson choropleth map in leaflet](https://github.com/Lchiffon/leafletCN)
++ [leafletCN: An R gallery for China and other geojson choropleth map in leaflet](https://github.com/Lchiffon/leafletCN)
 
 ### Popup
 
