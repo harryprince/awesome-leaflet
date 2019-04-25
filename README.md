@@ -19,8 +19,6 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 + [windy: Wind map & weather forecast](http://windy.com/)
 
-<p><iframe width="650" height="450" src="https://embed.windy.com/embed2.html?lat=22.291&lon=114.150&zoom=5&level=surface&overlay=wind&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=22.291&detailLon=114.150&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe></p>
-
 ## Leaflet Cheatsheet
 
 + [Leaflet R Package Cheatsheet](https://ugoproto.github.io/ugo_r_doc/leaflet-cheat-sheet.pdf)
