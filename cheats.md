@@ -1,4 +1,4 @@
-* convert trip network dataframe to sf and viz
+* convert **trip network dataframe** to **sf** and viz
 
 ```
 t <- read_delim("create_time	|start_positionx|	start_positiony|	end_positionx	|end_positiony
