@@ -79,6 +79,9 @@ This repo aims for collecting awesome Leaflet resources togather.
 
 ![](https://github.com/rte-antares-rpackage/leaflet.minichart/raw/master/img/bubblecharts.png)
 
+![image](https://user-images.githubusercontent.com/5362577/161290425-729d0620-c43a-4e59-a4e9-bcc6e0b2113d.png)
+
+
 ### 3D Map
 
 + [mapdeck: R interface to Deck.gl and Mapbox](https://github.com/SymbolixAU/mapdeck)
