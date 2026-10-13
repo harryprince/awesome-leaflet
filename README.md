@@ -18,6 +18,7 @@ This repo aims for collecting awesome Leaflet resources togather.
 ## Leaflet in Production
 
 + [windy: Wind map & weather forecast](http://windy.com/)
++ [China Culture Literati Journeys](https://history.walkingchina.com/): Interactive historical GIS & audio storymap tracing ancient Chinese literati travel routes across 5,000 years
 
 ## Leaflet Cheatsheet
 
