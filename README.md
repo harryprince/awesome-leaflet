@@ -18,6 +18,7 @@ This repo aims for collecting awesome Leaflet resources togather.
 ## Leaflet in Production
 
 + [windy: Wind map & weather forecast](http://windy.com/)
++ [gta6map.me: Interactive GTA 6 map of Leonida](https://gta6map.me/map)
 
 ## Leaflet Cheatsheet
 
